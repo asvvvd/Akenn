@@ -10,7 +10,7 @@ if os.path.exists("local.env"):
 load_dotenv()
 admins = {}
 SESSION_NAME = getenv("SESSION_NAME", "AQCoEn-YXL0FSzyFRlNUS61kwEpBFeH2_4UN-bdX5Ej1EXp1I0ko1qOlG9jyoSblUv_u8B6S6wroUGUq0OxKYL-gKY6ENVy5jC1_REpsgs9n-u1F60IYEV7Ye3JzURAtdiUoixZTwpBsJ6tj5jNmAQRnEo54bCPFEhg4dFDr1KA92P-AxOMAxNKYpqMoXw7YKlQx-VHBwGywZ8IIKtzVRxnTThAwPSxownvbRw3dL_vm9-L2ao3sHcx8YLnbKR9DT245wlFGLHG4asXN2FuhcBg5UINVgpVQZIGF_rDtn7Y1JJuLSMgOtjxCQSrjGljzPYKh6h62gqdYq7YWHSZRL-cDAAAAATfGhfgA")
-BOT_TOKEN = getenv("BOT_TOKEN", "5229626458:AAGj_DBOa3BXQnYaw_-WIqJFo-PjsZx6ap0")
+BOT_TOKEN = getenv("BOT_TOKEN", "5229626458:AAH8Z2vRIPP71R_HvVyN7dUjnDm5y_YywNM")
 BOT_NAME = getenv("BOT_NAME", "𝖥𝗅𝗈𝖱𝖾𝖷")
 API_ID = int(getenv("API_ID", "8186557"))
 API_HASH = getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
